@@ -12,13 +12,13 @@ const ChefsSection = () => {
               <div className="member" data-aos="zoom-in" data-aos-delay={100}>
                 <img
                   style={{ height: "416px", width: "416px" }}
-                  src="Assets/img/thangngu.png"
+                  src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/319363403_1564733997373057_133839779495297846_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HZaFpiBQHK4AX8hAkmc&_nc_ht=scontent.fhan18-1.fna&oh=00_AfBhHAgthd0rMuol2VZrSBUIUDcZaRcqccrpFqOzEszAgA&oe=63AFABC4"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="member-info">
                   <div className="member-info-content">
-                    <h4>Thắng Ngu</h4>
+                    <h4>Linh Xinh</h4>
                     <span>Master Chef</span>
                   </div>
                   <div className="social">
@@ -42,13 +42,13 @@ const ChefsSection = () => {
               <div className="member" data-aos="zoom-in" data-aos-delay={200}>
                 <img
                   style={{ height: "416px", width: "416px" }}
-                  src="Assets/img/chefs/thangngu1.jpg"
+                  src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/319363403_1564733997373057_133839779495297846_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HZaFpiBQHK4AX8hAkmc&_nc_ht=scontent.fhan18-1.fna&oh=00_AfBhHAgthd0rMuol2VZrSBUIUDcZaRcqccrpFqOzEszAgA&oe=63AFABC4"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="member-info">
                   <div className="member-info-content">
-                    <h4>Thắng Ngu</h4>
+                    <h4>Linh Xinh</h4>
                     <span>Patissier</span>
                   </div>
                   <div className="social">
@@ -72,13 +72,13 @@ const ChefsSection = () => {
               <div className="member" data-aos="zoom-in" data-aos-delay={300}>
                 <img
                   style={{ height: "416px", width: "416px" }}
-                  src="assets/img/chefs/thangngu2.jpg"
+                  src="https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/319363403_1564733997373057_133839779495297846_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HZaFpiBQHK4AX8hAkmc&_nc_ht=scontent.fhan18-1.fna&oh=00_AfBhHAgthd0rMuol2VZrSBUIUDcZaRcqccrpFqOzEszAgA&oe=63AFABC4"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="member-info">
                   <div className="member-info-content">
-                    <h4>Thắng Ngu</h4>
+                    <h4>Linh Xinh</h4>
                     <span>Cook</span>
                   </div>
                   <div className="social">
